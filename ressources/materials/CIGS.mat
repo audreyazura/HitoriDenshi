@@ -1,0 +1,7 @@
+name=CIGS
+bandgap=1.1
+effectiveMass_electron=0.089
+effectiveMass_hole=0.693
+capturetimes_ps=
+escapetimes_ps=
+recombinationtimes_ns=
